@@ -83,7 +83,7 @@ resources:
 #- argocd/instances/ibm-sfg-b2bi-prod.yaml
 
 # Sealed Secrets
-#- argocd/instances/sealed-secrets.yaml
+- argocd/instances/sealed-secrets.yaml
 
 ## END ##
 
