@@ -97,6 +97,11 @@ resources:
 - argocd/instances/sterling-secure-proxy-cm-instance.yaml
 - argocd/instances/sterling-secure-proxy-engine-instance.yaml
 
+# - argocd/instances/ssp-setup.yaml
+# - argocd/instances/ssp-cm.yaml
+# - argocd/instance/ssp-engine.yaml
+
+
 # PEM
 #- argocd/instances/ibm-pem-db2.yaml
 #- argocd/instances/ibm-pem-db2test.yaml
